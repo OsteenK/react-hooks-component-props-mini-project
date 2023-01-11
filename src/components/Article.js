@@ -5,7 +5,7 @@ import React from "react";
         return (
             <article>
                 <h3> {title} </h3>
-                <small>{date ? date : 'January 1, 1970'}</small>
+                <small>{date ? date : 'January 11, 2023'}</small>
                 <small>{minutes} min read</small>
                 <p> {preview} </p>
             </article>
